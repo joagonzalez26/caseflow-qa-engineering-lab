@@ -23,3 +23,6 @@ blob-report/
 .idea/
 # Logs
 *.log
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
